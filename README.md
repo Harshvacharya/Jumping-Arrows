@@ -7,9 +7,10 @@ Jumping Arrows is a simple game where the objective is to move all the arrows po
 - Click on "→" to move right or jump over one arrow to the right.
 
 ## How to Play
-1. Run the Python script.
+1. Run the Python script `main.py`.
 2. Click on the arrows to move them left or right.
 3. Continue moving arrows until all left-directed arrows are on the left and all right-directed arrows are on the right.
+4. If the arrows are not arranged in the right order and there is no move available then you lose. otherwise win.
 
 ## Features
 - Visual representation of the game using the tkinter library.
