@@ -13,7 +13,6 @@ Jumping Arrows is a simple game where the objective is to move all the arrows po
 
 ## Features
 - Visual representation of the game using the tkinter library.
-- Arrows change color to indicate valid or invalid moves.
 - Option to reset the game and start again.
 
 ## Acknowledgments
