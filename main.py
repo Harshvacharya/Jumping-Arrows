@@ -148,6 +148,7 @@ class Bu():
 class Root(Tk):
     def __init__(self):
         super().__init__()
+        self.title("Jumping Arrows")
         self.b1 = Bu(self, text="→", col=1, c="red")
         self.b2 = Bu(self, text="→", col=2, c="red")
         self.b3 = Bu(self, text="→", col=3, c="red")
